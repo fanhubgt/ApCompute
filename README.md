@@ -29,7 +29,6 @@ ReADING
 
 (1) A PHILOSOPHICAL UNIFICATION OF ARITHMETICS AND ELECTRONIC MACHINE.  File:[elemachphil24.pdf](https://github.com/fanhubgt/ApCompute/files/8911270/elemachphil24.pdf)
 
-(2) A COMBINATORICAL ANALYSIS IN REPRESENTATION OF SINGLE DECIMAL SYBMOL WITH ITS STRUCTURES. File:[combinanaly.pdf]
-(https://github.com/fanhubgt/ApCompute/files/8911275/combinanaly.pdf)
+(2) A COMBINATORICAL ANALYSIS IN REPRESENTATION OF SINGLE DECIMAL SYBMOL WITH ITS STRUCTURES. File:[combinanaly.pdf](https://github.com/fanhubgt/ApCompute/files/8911275/combinanaly.pdf)
 
 NB: This project was done by me as Master of Philosophy(thesis) in Electronic MAchine.
