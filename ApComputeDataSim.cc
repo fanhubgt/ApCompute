@@ -3,7 +3,7 @@
  * Author: appiah
  * Appiah Number Sequence Storing Program.
  * Several data structures are used array, list, vector, queue, stack and more.
- * Created on 4 January 1980, 02:47
+ * Created on 4 January 2020, 02:47
  */
 
 #include <iostream>
