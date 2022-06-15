@@ -1,0 +1,2 @@
+# ApCompute
+A program to calculate Appiah Sequence Number. There are spectrum of different applications in subject of computer sicence and engineering.These number sequences can be used in cryptography[1] as a hash function generator[2]. It can also be used in distributed systems[3] in sense of parallel computer performance setup. Numbers can be referring to a parallel computer in a distributed system. 
